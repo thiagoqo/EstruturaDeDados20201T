@@ -1,7 +1,7 @@
 package br.edu.ifce.computacao.estruturadedados.fila;
 
 /**
- * TAD Fila
+ * TAD (Tipo Abstrato de Dados) Fila
  * 
  * @author Thiago Queiroz (thiago.queiroz@ifce.edu.br)
  * 

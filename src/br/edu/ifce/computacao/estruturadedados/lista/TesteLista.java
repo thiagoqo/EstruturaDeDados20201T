@@ -3,7 +3,7 @@ package br.edu.ifce.computacao.estruturadedados.lista;
 public class TesteLista {
 
 	public static void main(String[] args) {
-
+		
 		TADLista<Integer> lista = new Lista<Integer>(5);
 
 		lista.adicionaValor(8, 0);
